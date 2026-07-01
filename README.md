@@ -1,7 +1,3 @@
-## Development Status
-
-The World Within: Silent Chaos is currently under active development for Geek N Jam 2026.
-The current repository represents a work-in-progress version. Art assets, sound design, atmosphere, and gameplay polish are still being refined before the final game jam submission.
 
 # The World Within: Silent Chaos
 
@@ -37,9 +33,11 @@ The goal is not to defeat enemies, but to regain control by reclaiming what anxi
 
 ---
 
-## Current Status
+## Current Development Status
 
-This project is actively being developed for the Geek N Jam 2026 Game Jam.
+The World Within: Silent Chaos is currently under active development for Geek N Jam 2026.
+
+The current repository represents a work-in-progress version. Art assets, sound design, atmosphere, and gameplay polish are still being refined before the final game jam submission.
 
 Future updates will include:
 
